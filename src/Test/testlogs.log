@@ -1,0 +1,201 @@
+2014-05-19 09:46:27,278 INFO Started User Menu Bar Test
+2014-05-19 09:46:36,010 INFO logged in
+2014-05-19 09:46:38,466 INFO @ admin db
+2014-05-19 09:46:40,861 INFO @ user admin
+2014-05-19 09:46:43,143 INFO @ project admin
+2014-05-19 09:46:48,541 INFO @ site admin
+2014-05-19 09:46:50,488 INFO @ FE DB
+2014-05-19 09:46:56,205 INFO @ user manager
+2014-05-19 09:46:58,002 INFO @ project
+2014-05-19 09:46:59,995 INFO @ profile
+2014-05-19 09:47:01,943 INFO @ check user info
+2014-05-19 09:47:04,418 INFO @  bt
+2014-05-19 09:47:06,167 INFO @  bt faq
+2014-05-19 09:47:08,049 INFO @  my year
+2014-05-19 09:47:09,804 INFO @ contact
+2014-05-19 09:47:11,515 INFO @ FE DB
+2014-05-19 09:47:17,069 INFO logged out
+2014-05-19 09:47:17,069 INFO User Menu Bar Test Complete
+2014-05-19 09:52:57,129 INFO Started Update Project Test
+2014-05-19 09:53:05,437 INFO Logged In
+2014-05-19 09:53:08,652 INFO @ Project Admin Page
+2014-05-19 09:53:31,579 INFO @ Project Page
+2014-05-19 11:04:58,503 INFO Starting BE Create User Test
+2014-05-19 11:05:07,083 INFO logged in
+2014-05-19 11:05:11,851 INFO @ WP BE
+2014-05-19 11:05:15,044 INFO @ BE User Page
+2014-05-19 11:05:21,232 INFO @ create user page
+2014-05-19 11:05:28,847 INFO @ FE DB
+2014-05-19 11:05:57,890 INFO logged in
+2014-05-19 11:06:01,236 INFO @ FE Profile page
+2014-05-19 11:06:01,236 INFO Started FE Update Profile / Bad Password Test
+2014-05-19 11:06:07,131 INFO new data entered
+2014-05-19 11:06:07,403 INFO correct strength message. Bad Password Test Complete
+2014-05-19 11:06:35,433 INFO logged in
+2014-05-19 11:06:38,224 INFO @ FE Profile page
+2014-05-19 11:06:38,224 INFO Started FE Update Profile / Good Password Test
+2014-05-19 11:06:43,963 INFO new data entered
+2014-05-19 11:06:44,231 INFO correct strength message. Good Password Test Complete
+2014-05-19 11:07:20,849 INFO logged in
+2014-05-19 11:07:24,250 INFO @ FE Profile page
+2014-05-19 11:07:24,250 INFO Started FE Update Profile / Mismatch Password Test
+2014-05-19 11:07:30,774 INFO new data entered
+2014-05-19 11:07:31,081 INFO correct strength message. Mismatch Password Test Complete
+2014-05-19 11:07:59,349 INFO logged in
+2014-05-19 11:08:02,265 INFO @ FE Profile page
+2014-05-19 11:08:02,265 INFO Started FE Update Profile / No Current Password Test
+2014-05-19 11:08:06,617 INFO new data entered
+2014-05-19 11:08:07,596 INFO error message detected. No Current Password Test Complete
+2014-05-19 11:08:37,115 INFO logged in
+2014-05-19 11:08:39,910 INFO @ FE Profile page
+2014-05-19 11:08:39,910 INFO Started FE Update Profile / No First Name Test
+2014-05-19 11:08:45,962 INFO new data entered
+2014-05-19 11:08:46,854 INFO error message detected. No First Name Test Complete
+2014-05-19 11:09:16,343 INFO logged in
+2014-05-19 11:09:19,299 INFO @ FE Profile page
+2014-05-19 11:09:19,299 INFO Started FE Update Profile / Change Password Test
+2014-05-19 11:09:25,755 INFO profile updated
+2014-05-19 11:09:52,311 INFO logged out
+2014-05-19 11:12:48,972 INFO Started Update Project Test
+2014-05-19 11:13:18,171 INFO Started User Menu Bar Test
+2014-05-23 09:12:30,838 INFO Starting FE Create User Test
+2014-05-23 09:12:39,371 INFO logged in
+2014-05-23 09:22:56,739 INFO Starting FE Create User Test
+2014-05-23 09:23:05,441 INFO logged in
+2014-05-23 09:27:23,145 INFO Starting FE Create User Test
+2014-05-23 09:27:31,886 INFO logged in
+2014-05-23 09:40:47,031 INFO Starting FE Create User Test
+2014-05-23 09:40:55,005 INFO logged in
+2014-06-02 06:34:51,191 INFO Starting Login Test
+2014-06-02 06:41:13,754 INFO Starting Login Test
+2014-06-02 06:41:54,026 INFO Starting Login Test
+2014-06-02 06:45:31,706 INFO Starting Login Test
+2014-06-02 06:48:29,511 INFO Starting Login Test
+2014-06-02 07:07:58,516 INFO Starting Login Test
+2014-06-02 07:10:52,912 INFO Starting Login Test
+2014-06-02 07:15:03,525 INFO Starting Login Test
+2014-06-02 07:20:08,195 INFO Starting Login Test
+2014-06-02 07:51:29,187 INFO Starting Login Test
+2014-06-02 08:00:13,449 INFO Starting FE Create User Test
+2014-06-02 08:00:22,674 INFO logged in
+2014-06-02 08:00:27,696 INFO @ user manager page
+2014-06-02 08:00:28,703 INFO @ user manager create user page
+2014-06-02 08:00:36,213 INFO FE Create User Test complete
+2014-06-02 08:23:57,296 INFO Starting FE Create User Test
+2014-06-02 08:25:56,152 INFO Starting FE Create User Test
+2014-06-02 08:26:06,151 INFO logged in
+2014-06-02 08:26:11,291 INFO @ user manager page
+2014-06-02 08:26:12,332 INFO @ user manager create user page
+2014-06-02 08:26:18,723 INFO FE Create User Test complete
+2014-06-03 10:16:48,568 INFO Starting BE Create User Test
+2014-06-03 10:17:00,274 INFO logged in
+2014-06-03 10:17:05,997 INFO @ WP BE
+2014-06-03 10:17:09,242 INFO @ BE User Page
+2014-06-03 10:17:18,343 INFO @ create user page
+2014-06-03 10:17:28,630 INFO @ FE DB
+2014-06-03 12:28:06,890 INFO Starting BE Create User Test
+2014-06-03 12:28:18,810 INFO logged in
+2014-06-03 12:28:24,591 INFO @ WP BE
+2014-06-03 12:28:27,570 INFO @ BE User Page
+2014-06-03 12:28:34,970 INFO @ create user page
+2014-06-03 12:28:45,620 INFO @ FE DB
+2014-06-03 12:53:49,785 INFO Starting FE Assign Project Test
+2014-06-03 12:54:02,641 INFO logged in
+2014-06-03 12:57:12,617 INFO Starting FE Assign Project Test
+2014-06-03 12:57:24,365 INFO logged in
+2014-06-03 13:21:07,287 INFO Starting FE Assign Project Test
+2014-06-03 13:21:20,174 INFO logged in
+2014-06-03 13:26:59,233 INFO Starting FE Assign Project Test
+2014-06-03 13:27:11,594 INFO logged in
+2014-06-03 13:29:40,916 INFO Starting FE Assign Project Test
+2014-06-03 13:29:52,640 INFO logged in
+2014-06-03 13:32:21,473 INFO Starting FE Assign Project Test
+2014-06-03 13:32:32,218 INFO logged in
+2014-06-03 13:44:31,120 INFO Starting FE Assign Project Test
+2014-06-03 13:44:44,212 INFO logged in
+2014-06-04 06:14:39,110 INFO Starting FE Assign Project Test
+2014-06-04 06:14:50,749 INFO logged in
+2014-06-04 06:36:21,434 INFO Started FE Create Project Test
+2014-06-04 06:36:32,980 INFO logged in
+2014-06-04 06:36:36,578 INFO @ project admin page
+2014-06-04 07:38:01,614 INFO Starting FE Create User Test
+2014-06-04 07:38:12,035 INFO logged in
+2014-06-04 07:38:17,842 INFO @ user manager page
+2014-06-04 07:38:18,740 INFO @ user manager create user page
+2014-06-04 07:43:19,313 INFO Starting FE Create User Test
+2014-06-04 07:43:30,724 INFO logged in
+2014-06-04 07:43:36,349 INFO @ user manager page
+2014-06-04 07:43:37,603 INFO @ user manager create user page
+2014-06-04 07:44:02,708 INFO FE Create User Test complete
+2014-06-04 10:07:27,293 INFO Started FE Create Project Test
+2014-06-04 10:07:39,003 INFO logged in
+2014-06-04 10:07:41,847 INFO @ project admin page
+2014-06-04 10:07:45,117 INFO @ create proj page
+2014-06-04 10:07:49,685 INFO project created
+2014-06-04 10:54:31,355 INFO Started FE Create Project Test
+2014-06-04 10:54:43,101 INFO logged in
+2014-06-04 10:54:46,191 INFO @ project admin page
+2014-06-04 10:54:49,165 INFO @ create proj page
+2014-06-04 10:54:53,738 INFO project created
+2014-06-04 11:02:37,117 INFO Started FE Create Project Test
+2014-06-04 11:02:48,780 INFO logged in
+2014-06-04 11:02:51,982 INFO @ project admin page
+2014-06-04 11:02:55,579 INFO @ create proj page
+2014-06-04 11:03:00,150 INFO project created
+2014-06-04 11:03:16,384 INFO new project found
+2014-06-04 11:03:19,304 INFO Data is Correct. FE Create Project Test Complete
+2014-06-04 11:13:32,754 INFO Started Update Project Test
+2014-06-04 11:13:44,679 INFO Logged In
+2014-06-04 11:13:48,168 INFO @ Project Admin Page
+2014-06-04 11:14:01,430 INFO @ Project Page
+2014-06-04 11:37:11,547 INFO Started Update Project Test
+2014-06-04 11:37:24,096 INFO Logged In
+2014-06-04 11:37:27,112 INFO @ Project Admin Page
+2014-06-04 11:37:40,615 INFO @ Project Page
+2014-06-04 11:37:45,506 INFO back @ Project Admin Page
+2014-06-04 11:49:44,013 INFO Started Update Project Test
+2014-06-04 11:49:56,123 INFO Logged In
+2014-06-04 11:49:59,051 INFO @ Project Admin Page
+2014-06-04 11:50:12,472 INFO @ Project Page
+2014-06-04 11:50:17,707 INFO back @ Project Admin Page
+2014-06-04 11:50:30,833 INFO @ Project Page
+2014-06-04 11:50:30,833 INFO back @ Project Page
+2014-06-04 12:42:09,266 INFO Started Update Project Test
+2014-06-04 12:42:21,023 INFO Logged In
+2014-06-04 12:42:24,008 INFO @ Project Admin Page
+2014-06-04 12:42:37,206 INFO @ Project Page
+2014-06-04 12:42:42,109 INFO back @ Project Admin Page
+2014-06-04 12:42:54,679 INFO @ Project Page
+2014-06-04 12:42:54,679 INFO back @ Project Page
+2014-06-04 12:42:57,476 INFO Update Project Test Complete
+2014-06-04 12:44:00,118 INFO Started Update Project Test
+2014-06-04 12:44:11,556 INFO Logged In
+2014-06-04 12:44:15,207 INFO @ Project Admin Page
+2014-06-04 12:44:28,478 INFO @ Project Page
+2014-06-04 12:44:34,849 INFO back @ Project Admin Page
+2014-06-04 12:44:47,770 INFO @ Project Page
+2014-06-04 12:44:47,770 INFO back @ Project Page
+2014-06-17 07:37:48,298 INFO Starting SBv1 launch MY Test
+2014-06-17 07:47:45,702 INFO Starting SBv1 launch MY Test
+2014-06-17 08:06:01,682 INFO Starting SBv1 launch MY Test
+2014-06-17 08:06:07,590 INFO logged in
+2014-06-17 08:09:33,338 INFO Starting SBv1 launch MY Test
+2014-06-17 08:09:46,825 INFO logged in
+2014-06-17 08:43:05,511 INFO Starting SBv1 launch MY Test
+2014-06-17 08:43:20,034 INFO logged in
+2014-06-17 11:44:57,330 INFO Starting SBv1 launch MY Test
+2014-06-17 11:45:18,637 INFO logged in
+2014-06-17 11:48:52,763 INFO Starting SBv1 launch MY Test
+2014-06-17 11:49:06,026 INFO logged in
+2014-06-17 11:58:20,364 INFO Starting SBv1 launch MY Test
+2014-06-17 11:58:33,928 INFO logged in
+2014-06-17 12:01:14,824 INFO Starting SBv1 launch MY Test
+2014-06-17 12:01:27,378 INFO logged in
+2014-06-17 12:09:10,581 INFO Starting SBv1 launch MY Test
+2014-06-17 12:09:23,899 INFO logged in
+2014-06-17 13:27:10,898 INFO Starting SBv1 launch MY Test
+2014-06-17 13:27:25,555 INFO logged in
+2014-06-18 06:54:51,324 INFO Starting SBv1 launch MY Test
+2014-06-18 06:55:04,587 INFO logged in
+2014-06-18 07:02:08,021 INFO Starting SBv1 launch MY Test
+2014-06-18 07:02:20,799 INFO logged in
